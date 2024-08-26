@@ -1,0 +1,10 @@
+.container{
+    background-color: #ff0000;
+    height: 200px;
+    width: 200px;
+    padding: 20px;
+}
+body{
+    display: flex;
+    justify-content: center;
+}
